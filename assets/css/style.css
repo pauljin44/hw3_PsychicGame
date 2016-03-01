@@ -1,0 +1,32 @@
+body {
+    background-color: lightblue;
+    width: 300px;
+    padding: 25px;
+    border: 10px solid navy;
+    margin: 25px;
+}
+
+h1 {
+    background-color: red;
+    font-size: 80px;
+    margin: 0;
+}
+
+#wins {
+    background-color: orange;
+    font-size: 2em;
+}
+#losses {
+    background-color: yellow;
+    font-size: 2em;
+}
+#guessesLeft {
+    background-color: green;
+    font-size: 2em;
+}
+#guessesSoFar {
+    position: static;
+    border: 20px solid #76AD21;
+    font-size: 2em;
+
+}
